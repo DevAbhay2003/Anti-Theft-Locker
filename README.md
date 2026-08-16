@@ -218,7 +218,7 @@ See [`docs/screenshots_checklist.md`](docs/screenshots_checklist.md) — add cap
 
 ## 👤 Author
 
-*Your Name* — Embedded Systems Student
+*Abhishek Basu* — Embedded Systems Student
 GitHub: `[DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories)` · 
 LinkedIn: `[Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)`
 
